@@ -1,0 +1,94 @@
+
+
+* {
+  box-sizing: border-box;
+  
+}
+
+
+
+body {
+  background-image: url('https://mocah.org/mocahbig/88153-deadpool-superheroes-artwork-artist-hd-4k-behance.jpg');  
+  margin: 0;
+  height: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  color:#161068;
+}
+
+#app {
+  width: 50%;
+  background: white;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 2px rgba(0,0,0,0.3);
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 7em;
+  text-align: center;
+  color: rgb(153, 150, 150);
+}
+
+h2 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+
+.container {
+  border: 2px solid rgb(136, 21, 21);
+  padding: 60px;
+  border-radius: 60px;
+  margin: 1336px 0px 68px 1px;
+}
+
+.displayedTime {
+  margin-bottom: 30px;
+}
+
+button, input[type="submit"] {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 5px;
+  border: none;
+  border-radius: 10px;
+  background-color: #bbb;
+  font-size: 3.3em;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+button:hover {
+  background-color: rgb(136, 21, 21);
+}
+
+input[type="submit"] {
+  background-color: rgb(7, 7, 7);
+}
+
+input[type="submit"]:hover {
+  background-color: rgb(136, 21, 21);
+  transform: scale(1.2);
+}
+
+input[type="text"] {
+  margin-bottom: 30px;
+  padding: 0;
+  font-size: 1.5em;
+  width: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid #222;
+  color:rgb(248, 23, 23);
+  background-color: white;
+}
+
+
+
