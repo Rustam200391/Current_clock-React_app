@@ -1,5 +1,5 @@
 #  React App
-<iCurrent clock
+<i>Current clock
 
 To launch a project, you need to import it in the terminal. To do this, specify the https address that will appear when you click the "code" button above the project files in the github. We specify the address in the terminal after the git clone command. We write all this while in the folder where we want to import the code.
 
